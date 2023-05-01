@@ -12,7 +12,7 @@ function SocialLinks() {
           Linkedin <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/",
+      href: "https://www.linkedin.com/in/dumanomer",
       style: "rounded-tr-md",
     },
     {
@@ -31,16 +31,16 @@ function SocialLinks() {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mail:to:omer.duman@gmx.de",
+      href: "mailto:omer.duman@gmx.de",
     },
     {
       id: 4,
       child: (
         <>
-          Mail <BsFillPersonLinesFill size={30} />
+          Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "mail:to:omer.duman@gmx.de",
+      href: "/resume.pdf",
       style: "rounded-br-md",
       download: true,
     },

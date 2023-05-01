@@ -15,10 +15,10 @@ function Home() {
             I"m a Frontend Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas
-            repudiandae et voluptatum, impedit accusamus labore nostrum ad ab
-            voluptate. Ab ut natus perspiciatis praesentium delectus eos optio
-            magni cumque tenetur!
+            A dedicated frontend developer with a willingness to learn and
+            passion for frontend technologies. I strive to write clean and
+            readable code. Curious, proactive, and ready to learn new challenges
+            and technologies to grow and develop myself
           </p>
           <div>
             <Link
