@@ -47,7 +47,6 @@ const Experience = () => {
       title: "Sass",
       style: "shadow-pink-400",
     },
-    ,
     {
       id: 5,
       src: typeScript,
