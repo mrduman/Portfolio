@@ -47,7 +47,7 @@ function SocialLinks() {
   ];
 
   return (
-    <div className="flex flex-col top-[35%] lef-0 fixed">
+    <div className="hidden lg:flex flex-col top-[35%] lef-0 fixed">
       <ul>
         {links.map(({ id, child, style, download, href }) => {
           return (
@@ -63,6 +63,7 @@ function SocialLinks() {
                 className="flex justify-between items-center w-full text-white"
                 download={download}
                 target="_blank"
+                rel="noreferrer"
               >
                 {child}
               </a>
