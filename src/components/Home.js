@@ -15,10 +15,7 @@ function Home() {
             I'm a Frontend Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            A dedicated frontend developer with a willingness to learn and
-            passion for frontend technologies. I strive to write clean and
-            readable code. Curious, proactive, and ready to learn new challenges
-            and technologies to grow and develop myself
+            Passionate Frontend Developer with a Focus on Clean Code
           </p>
           <div>
             <Link

@@ -13,20 +13,16 @@ function About() {
           </p>
         </div>
         <p className="text-xl mt-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates,
-          placeat unde. Dolorem fugiat nemo, mollitia laboriosam magnam maiores
-          obcaecati eum rerum fuga, fugit quos? Quas voluptatum ea quos est
-          voluptatibus.
+          A dedicated frontend developer with a willingness to learn and passion
+          for frontend technologies. I strive to write clean and readable code.
+          Curious, proactive, and ready to learn new challenges and technologies
+          to grow and develop myself. I love working on web applications and
+          have experience with a variety of technologies, including React.js,
+          CSS, and TypeScript. I'm always looking to expand my knowledge and
+          skills to create exceptional user experiences and solve complex
+          problems.
         </p>
         <br />
-        <p className="text-xl">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum
-          sapiente id velit vitae, quisquam voluptate repellat, dolorum labore
-          deserunt omnis saepe quidem ipsa? Placeat velit beatae saepe sed,
-          veritatis magni perferendis sapiente cumque rem provident quaerat
-          cupiditate. Laboriosam deleniti consequuntur consequatur voluptatum
-          delectus voluptas, doloremque cumque ullam atque! Blanditiis, numquam.
-        </p>
       </div>
     </div>
   );

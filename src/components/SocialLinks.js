@@ -22,7 +22,7 @@ function SocialLinks() {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://www.github.com/",
+      href: "https://github.com/mrduman",
     },
     {
       id: 3,
