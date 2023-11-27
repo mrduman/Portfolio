@@ -42,7 +42,7 @@ function SocialLinks() {
       ),
       href: "/resume.pdf",
       style: "rounded-br-md",
-      download: false,
+      download: true,
     },
   ];
 
