@@ -1,5 +1,6 @@
 import React from "react";
 import comfyStore from "../assets/portfolio/comfyStore.jpg";
+import fitnessApp from "../assets/portfolio/fitness.png";
 
 function Portfolio() {
   const portfolios = [
@@ -8,6 +9,12 @@ function Portfolio() {
       src: comfyStore,
       demoLink: "https://comfy-store-appl.netlify.app/",
       codeLink: "https://github.com/mrduman/e-commerce-store",
+    },
+    {
+      id: 2,
+      src: fitnessApp,
+      demoLink: "https://fittness-app.netlify.app/",
+      codeLink: "https://github.com/mrduman/gymApp",
     },
   ];
 
