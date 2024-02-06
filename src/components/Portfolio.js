@@ -1,6 +1,7 @@
 import React from "react";
 import comfyStore from "../assets/portfolio/comfyStore.jpg";
 import fitnessApp from "../assets/portfolio/fitness.png";
+import snapgram from "../assets/portfolio/snapgram.png";
 
 function Portfolio() {
   const portfolios = [
@@ -11,7 +12,13 @@ function Portfolio() {
       codeLink: "https://github.com/mrduman/e-commerce-store",
     },
     {
+      src: snapgram,
       id: 2,
+      demoLink: "https://snapgram-two-mauve.vercel.app/sign-in",
+      codeLink: "https://github.com/mrduman/Snapgram",
+    },
+    {
+      id: 3,
       src: fitnessApp,
       demoLink: "https://fittness-app.netlify.app/",
       codeLink: "https://github.com/mrduman/gymApp",
